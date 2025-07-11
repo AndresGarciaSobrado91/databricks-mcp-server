@@ -1,0 +1,25 @@
+
+# Python
+__pycache__
+
+# Environments
+.env
+.env.example
+.venv
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Rules
+CLAUDE.md
+
+# Cursor
+.cursor*

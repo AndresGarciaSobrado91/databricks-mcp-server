@@ -1,0 +1,5 @@
+uvicorn[standard]
+python-dotenv
+FastMCP
+requests
+mcp
