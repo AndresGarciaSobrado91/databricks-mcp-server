@@ -11,6 +11,7 @@ This is a server that provides tools to interact with Databricks.
 - SQL management
 
 ## Installation
+Required Python version: 3.11
 
 ```bash
 # Create and activate virtual environment
